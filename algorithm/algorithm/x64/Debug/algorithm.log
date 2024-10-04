@@ -1,0 +1,3 @@
+﻿  algorithm.cpp
+D:\SoftEng\Kavo_i_Sho\algorithm\algorithm\algorithm.cpp(30,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  algorithm.vcxproj -> D:\SoftEng\Kavo_i_Sho\algorithm\x64\Debug\algorithm.exe
